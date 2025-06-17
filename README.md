@@ -59,11 +59,14 @@ Built using industry-standard tools such as **Selenium**, **Java**, **Cucumber (
 - Responsive Layouts on Different Devices
 - Negative Testing Scenarios
 
----
+  ### ✅ Conclusion
+The DemoBlaze Testing Project successfully implements a scalable and maintainable test automation framework by integrating UI automation, manual testing, and planned API testing.
+By leveraging best practices and tools, this project enhances product quality and reduces manual effort.
+Future improvements will further ensure excellence in software validation and overall testing efficiency.
 
+  ---
 ## 📂 Project Structure
-
-```plaintext
+  ```plaintext
 DemoBlaze-Testing/
 ├── src/
 │   ├── main/
@@ -79,7 +82,4 @@ DemoBlaze-Testing/
 ├── extent-config.xml                # ExtentReports configuration
 └── README.md                        # Project documentation
 
-### ✅ Conclusion
-The DemoBlaze Testing Project successfully implements a scalable and maintainable test automation framework by integrating UI automation, manual testing, and planned API testing.
-By leveraging best practices and tools, this project enhances product quality and reduces manual effort.
-Future improvements will further ensure excellence in software validation and overall testing efficiency.
+
